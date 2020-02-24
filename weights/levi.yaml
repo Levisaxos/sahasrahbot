@@ -1,0 +1,91 @@
+description: "Levisaxos's favorite layout. Looking for more randomness in ganon crystals and tower crystals"
+glitches_required:
+  none: 100
+  overworld_glitches: 0
+  major_glitches: 0
+  no_logic: 0
+item_placement:
+  basic: 50
+  advanced: 50
+dungeon_items:
+  standard: 60
+  mc: 20
+  mcs: 20
+  full: 20
+accessibility:
+  items: 50
+  locations: 50
+  none: 0
+goals:
+  ganon: 25
+  fast_ganon: 15
+  dungeons: 25
+  pedestal: 25
+  triforce-hunt: 10
+tower_open:
+  '0': 9
+  '1': 10
+  '2': 11
+  '3': 12
+  '4': 13
+  '5': 14
+  '6': 15
+  '7': 16
+  random: 0
+ganon_open:
+  '0': 9
+  '1': 10
+  '2': 11
+  '3': 12
+  '4': 13
+  '5': 14
+  '6': 15
+  '7': 16
+  random: 0
+world_state:
+  standard: 20
+  open: 35
+  inverted: 35
+  retro: 10
+entrance_shuffle:
+  none: 25
+  simple: 25
+  restricted: 10
+  full: 25
+  crossed: 10
+  insanity: 5
+boss_shuffle:
+  none: 20
+  simple: 40
+  full: 40
+  random: 0
+enemy_shuffle:
+  none: 40
+  shuffled: 60
+  random: 0
+hints:
+  'on': 50
+  'off': 50
+weapons:
+  randomized: 50
+  assured: 50
+  vanilla: 0
+  swordless: 0
+item_pool:
+  normal: 50
+  hard: 50
+  expert: 0
+  crowd_control: 0
+item_functionality:
+  normal: 50
+  hard: 50
+  expert: 0
+enemy_damage:
+  default: 50
+  shuffled: 50
+  random: 0
+enemy_health:
+  default: 50
+  easy: 25
+  hard: 25
+  expert: 0
